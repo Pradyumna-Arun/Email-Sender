@@ -2,7 +2,6 @@
 # Then set up an app specific password for Python, This password will be used by python for logging in to your email.
 
 from email.message import EmailMessage
-# from secret import password
 import ssl
 import smtplib
 from getpass import getpass
@@ -26,6 +25,7 @@ sender_email = input("Enter your email id: ")
 # App password set by you for python.
 password = input("Enter your password: ")
 # password = getpass()
+# This can be used to secure password
 # This function requires a proper terminal to turn off echoing of typed characters
 # What is keyboard echo?
 # the appearance of letters on the screen as someone types. While echoing what people
