@@ -85,3 +85,5 @@ with smtplib.SMTP_SSL('smtp.gmail.com', 465, context=context) as smtp:
         print("Login Credentials are incorrect please try again...")
     except smtplib.SMTPRecipientsRefused:
         print("Email Address for recipient is incorrect please try again...")
+
+        
