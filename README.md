@@ -7,6 +7,6 @@ For this to work we need to follow below steps
 2) Then set up an app specific password for Python, This password 
 will be used by python for logging in to your email account.
 
-![Capture](https://user-images.githubusercontent.com/113115923/190476078-2999b2ae-44be-4711-9514-208d2934d6c0.PNG)
+![Captur4e](https://user-images.githubusercontent.com/113115923/190476482-abb4cac0-dfee-4a5c-98b8-1b83bec99302.PNG)
 
 
