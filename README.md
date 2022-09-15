@@ -10,5 +10,9 @@ will be used by python for logging in to your email account.
 ![Captur4e](https://user-images.githubusercontent.com/113115923/190476770-229565a1-2801-4731-9d27-975aa4757ef9.PNG)
 
 Everything else is explained in the code itself.
-
-If you found this helpful, follow me for more.
+# Issues
+Incase you encounter any difficulties while trying to run the code you can raise it on the issues.
+# Give it a Star
+If you found this helpful, give it a star so more people can see it and follow me for more upcoming projects.
+# Credits
+All credits to [Pradyumna Arun](https://github.com/Pradyumna-Arun)
