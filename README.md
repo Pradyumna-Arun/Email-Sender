@@ -11,7 +11,7 @@ will be used by python for logging in to your email account.
 
 Everything else is explained in the code itself.
 # Issues
-Incase you encounter any difficulties while trying to run the code you can raise it on the issues.
+Incase you encounter any difficulties while trying to run the code you can raise it on the issues or contact me directly on arunpradyumna@gmail.com
 # Give it a Star
 If you found this helpful, give it a star so more people can see it and follow me for more upcoming projects.
 # Credits
